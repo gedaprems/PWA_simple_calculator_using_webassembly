@@ -1,0 +1,22 @@
+{
+    "name": "simple calculator",
+    "short_name":"scuw",
+    "start_url": "index.html",
+    "display":"standalone",
+    "scope": ".",
+    "description": "This is a simple calculator created using javascript and webassembly",
+    "version": "1.0",
+    "permissions":["https://api.com/"],
+    "icons": [
+        {
+            "src":"img/icon192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"img/icon512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
